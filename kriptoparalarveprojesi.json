@@ -1,0 +1,48 @@
+[{
+ "KriptoAdi": "Bitcoin",
+ "CikisYili": "2008",
+ "ResimURL": "https://raw.githubusercontent.com/Rhythmbender/h5200048omerfarukyilmaz/main/imgbtc.png",
+ "Turu": "Coin",
+ "Baslik": "<b> Bitcoin'in Projesi Nedir? <b>",
+ "Aciklama": "<i> Bitcoin yeni bir ödeme sistemini bizlere sunan bir konsensus ağı ve tamamen dijital bir paradır. Sahibi ve merkezi bir otoritesi bulunmayan ve gücünü kullanıcılarından alan ilk eşler arası ödeme yöntemidir. Bir kullanıcının persfektifinden bakacak olursak Bitcoin normal parayla internetten alışveriş yapmaya benzer. Bitcoin ayrıca en çok öne çıkan üçlü kayıt usülü muhasebe sistemi sayılır.<i>"
+},
+{
+ "KriptoAdi": "Ethereum",
+ "CikisYili": "2014",
+ "ResimURL": "https://raw.githubusercontent.com/Rhythmbender/h5200048omerfarukyilmaz/main/imgeth.png",
+ "Turu": "Coin",
+ "Baslik": "<b> Ethereum'un Projesi Nedir? <b>",
+ "Aciklama": "<i> Genel olarak bir alt coin statüsünde görülse de Ethereum esasında blockchain teknolojisinin gelişmesini ve daha fazla alanda kullanılmasını amaçlayan bir yenilikçi bir sistemdir. Ethereum kısaca, güç kaynağı olarak Ether (ETH) kripto para birimini alan bir Kripto İşletim Sistemidir. Amaç Bitcoin'inde bağlı olduğu blockchain sistemi üzerinde kullanıcıların bu sistem üzerinden yeni yazılımları oluşturmasını sağlamaktadır. Ethereum'un kullanıcılara sağladığı bu özgürlük sayesinde bir çok alt coin çıkarılmasına olanak sağlar. Ethereum sistemi ile amaçlanan, kişisel veriler gibi bilgilerin üçüncü şahıslar tarafından depolanmasını ve farklı amaçlar için kullanılmasını engellenmesidir. Bugün neredeyse internetten yaptığımız bütün işlemler (alışveriş, banka işlemleri, sosyal medya kullanımımız, internet geçmişimiz vb.) veriler halinde data banklarda kayıt altına alınmaktadır. Bu bilgilerin hangi amaçlar doğrultusunda kullanılacağı konusu ise tam bir bilinmezliktir. Ethereum sistemi ile bu işlemler tamamen dağınık ve anonim bir şekilde bir çok farklı cihaz üzerinde saklanmaktadır. Böylece bu bilgilere erişim imkansız bir hale gelir ve bütün bir interneti merkezsiz bir platforma çevirir. Bu merkezsiz sisteme dahil olacak yazılımların üretilebilmesi için Ehereum, Ether kripto para birimini bir yönüyle bir yakıt olarak kullanılmasını amaçlar.<i>"
+},
+{
+ "KriptoAdi": "Dent",
+ "CikisYili": "2017",
+ "ResimURL": "https://raw.githubusercontent.com/Rhythmbender/h5200048omerfarukyilmaz/main/imgdent.png",
+ "Turu": "Token",
+ "Baslik": "<b> Dent'in Projesi Nedir? <b>",
+ "Aciklama": "<i> DENT Wireless Limited şirketine bağlı olan DENT Coin, dünyadaki mobil veri endüstrisini alt üst etmeyi vaat eden yeni bir kripto para birimidir. Şirketin amacı, herhangi birinin Ethereum blockchain’i aracılığıyla veri satın almasına, bağış yapmasına ve satmasına izin vererek mobil verileri özgürleştirmektir. DENT Coin, bu pazarın merkezinde yer almaktadır ve veri piyasaları için kapsamlı bir yerel para birimidir. DENT, Ethereum tabanlı bir ERC-20 token'ıdır. Mobil veri paketleri için ödeme yapmak ve ödeme almak için veya kripto para birimi borsalarından birini kullanarak itibari para ile değiştirilebilmek için kullanılabilir.<i>"
+},
+{
+ "KriptoAdi": "Chiliz",
+ "CikisYili": "2018",
+ "ResimURL": "https://raw.githubusercontent.com/Rhythmbender/h5200048omerfarukyilmaz/main/imgchz.png",
+ "Turu": "Token",
+ "Baslik": "<b> Chiliz'in Projesi Nedir? <b>",
+ "Aciklama": "<i> 2018 yılında Socios.com tarafından piyasaya sürülen Chiliz (CHZ) coin ERC-20 token’ı olup Ethereum ağı üzerine kurulmuştur. Blok zinciri tabanlı araçlara sahip olan bu coin kullanıcılarının eğlence ve spor kuruluşları ile onlarının izleyicileri arasında etkileşim kurmalarını, onlardan para kazanmalarını sağlar. Bu sayede taraftarların coin kullanımı ile takımda alınan kararlarda söz hakkı olması amaçlanmaktadır.E-spor ve spor kulüpleri ile taraftarları arasında bağlantı kurmayı hedefleyen Chiliz (CHZ) en iyi oyuncunun kim seçileceği, kulübe ait ürün ve forma tasarımı gibi pek çok konuda taraftarların söz sahibi olmasına katkıda bulunur. Chiliz (CHZ) özellikle son dönemlerde ciddi bir ivme kaydederek değeri katlanan bu coin bugüne kadar görmediği bir taleple karşılaşmıştır. Bunun altında yatan nedenlerden biri Bitcoin’in değerinin artmasıdır. Bitcoinde yaşanan artış diğer kripto para birimlerinde de hareketlenmelere neden olmuştur. Chiliz (CHZ) coin ile kullanıcılar, Chiliz (CHZ) aracılığıyla piyasaya sürülen taraftar tokenleri ile taraftarın takımında söz sahibi olabilmelerini sağlamasının yanında, spor kulüplerinin lisanslı ürünlerini bu taraftar token ile alabilmelerini de sağlamaktadır.<i>"
+},
+{
+ "KriptoAdi": "PSG Fan Token",
+ "CikisYili": "2020",
+ "ResimURL": "https://raw.githubusercontent.com/Rhythmbender/h5200048omerfarukyilmaz/main/imgpsg.jpg",
+ "Turu": "Token",
+ "Baslik": "<b> PSG Fan Token'in Projesi Nedir? <b>",
+ "Aciklama": "<i> Paris Saint-Germain Fan Token (PSG), Paris Saint-Germain Futbol Kulubü’nün Socios.com ile birlikte 28 Ocak 2020’de piyasaya sürdüğü, Ethereum Blokzinciri’ndeki bir yan zincir olan Chiliz tabanlı bir kripto varlıktır. Taraftarlar ile Paris Saint-Germain arasındaki bağı güçlendirmek ve etkileşimi artırmak amacında olan PSG utility token özelliği taşımaktadır. PSG sayesinde taraftarlar ve sporseverler Paris Saint-Germain Futbol Kulübü’nün sunduğu çeşitli imkanlara erişerek kulüp ile etkileşime girme şansına sahip olmaktadır. Paris Saint-Germain taraftarları PSG sayesinde Socios.com üzerinden kulüp tarafından yayınlanan anketlerde oy kullanarak takımları ile ilgili alınacak kararlarda söz sahibi olabilirler. PSG Token sahipleri, Socios platformu üzerinden çeşitli yarışma ve oyunlar aracılığıyla ödüller kazanabilirken akıllı kontratlar sayesinde de kulübün taraftarlara sunduğu kararlarda oy kullanabilirler. Paris Saint-Germain Futbol Kulübü’nün gerçekleştirdiği Messi transferi hakkında yüksek miktarda fan token verdiklerini açıklaması kulübe ve PSG Token’a olan ilgiyi arttırmıştır. PSG Token sahipleri, Socios platformu üzerinden çeşitli yarışma ve oyunlar aracılığıyla ödüller kazanabilirken akıllı kontratlar sayesinde de kulübün taraftarlara sunduğu kararlarda oy kullanabilirler.<i>"
+},
+{
+ "KriptoAdi": "Tether",
+ "CikisYili": "2014",
+ "ResimURL": "https://raw.githubusercontent.com/Rhythmbender/h5200048omerfarukyilmaz/main/imgteth.png",
+ "Turu": "Stable Coin",
+ "Baslik": "<b> Tether'in Projesi Nedir? <b>",
+ "Aciklama": "<i> Tether, (USDT) kripto para birimi ERC-20 protokolüne bağlı blockchain üzerinden işlem yapmaktadır. Tether (USDT) kripto para birimi Tether Limited şirketi tarafından piyasaya 2015 yılında sürülmüştür. Tether (USDT), ABD dolarının sanal versiyonu olan bir stabil coindir. Değeri her zaman 1 USDT = 1 $ olarak sabit işlem görmektedir. Şirket piyasada bulunan her bir Tether (USDT) kripto para karşılığında kasasında 1 ABD doları olduğunu iddia etmektedir. Kullanıcılar Tether (USDT) bakiyelerini blockchain sistemi ile transfer edebilir ve ERC-20 blockchain sistemine uygun sanal cüzdanlarda muhafaza edebilirler.<i>"
+}]
